@@ -56,6 +56,6 @@ I'm not really maintaining this library as such as my main aim in building it wa
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 Anthony Manoras
 
 Distributed under the Eclipse Public License, the same as Clojure.
