@@ -1,6 +1,6 @@
 # Clojam
 
-A Clojure library solving Google Code Jam problems.
+A Clojure library for solving Google Code Jam problems.
 
 ## Code Jam
 
