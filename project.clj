@@ -1,6 +1,6 @@
-(defproject clojam "0.1.0-SNAPSHOT"
+(defproject amanoras/clojam "0.1.0"
   :description "A Clojure library for Google Code Jam."
-  :url "http://example.com/FIXME"
+  :url "https://github.com/amanoras/clojam"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.4.0"]]

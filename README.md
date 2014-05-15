@@ -11,13 +11,19 @@ I wanted to try solving the problems using Clojure and while working through the
 ## Usage
 So how do you use it ?
 
-First you need to include the library, for example:
+First you need to include the library by adding the following to your project.clj:
+
+```
+[amanoras/clojam "0.1.0"]
+```
+
+Next you need to include the library in your code, for example:
 
 ```
 (:use [clojam core cases utils])
 ```
 
-Next you should (but you don't have to) define a main function that can be called from the command line e.g. using lein run, so that you can pass in the names of your input and output files. The core of the library is the jam function which takes as arguments:
+Finaly you should (but you don't have to) define a main function that can be called from the command line e.g. using lein run, so that you can pass in the names of your input and output files. The core of the library is the jam function which takes as arguments:
 - the path to the input file
 - a vector that describes how the data in the input file should be combined into cases
 - a function that solves a case
