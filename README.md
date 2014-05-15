@@ -4,7 +4,7 @@ A Clojure library for solving Google Code Jam problems.
 
 ## Code Jam
 
-[Code Jam](https://code.google.com/codejam) is Google's annual coding competition. It consists of a series of rounds and in each round a series of problems that must be solved in a limited time. The problems usually consist of reading data from an input file and processing it in some way o get the required results with points being awarded for completing the problem for small and large datasets as well as how quickly the problem is solved.
+[Code Jam](https://code.google.com/codejam) is Google's annual coding competition. It consists of a series of rounds and in each round a series of problems that must be solved in a limited time. The problems usually consist of reading data from an input file and processing it in some way to get the required results with points being awarded for completing the problem for small and large datasets as well as how quickly the problem is solved.
 
 I wanted to try solving the problems using Clojure and while working through the prior years problems I put together this library to handle the mundane stuff like reading the input and writing the output so I could focus on solving the actual problem.
 
